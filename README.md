@@ -1,2 +1,2 @@
 # chara
-chara only
+chara only yes
